@@ -1,4 +1,4 @@
-FROM node:16-alpine
+FROM node:18-bullseye
 
 ARG N8N_VERSION=1.74.1
 
